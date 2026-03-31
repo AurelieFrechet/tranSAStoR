@@ -1,5 +1,5 @@
 
-pak::pak("AurelieFrechet/sasrvira")
+# pak::pak("AurelieFrechet/sasrvira")
 
 library(shiny)
 library(sasrvira)
